@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+NSW:wght@100..400&family=Playwrite+IT+Moderna:wght@100..400&family=Playwrite+US+Modern:wght@100..400&display=swap");
+.TextPopular {
+  // min-height: 30vh;
+  .text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.texts{
+        min-height: 30vh;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+}
+p{
+    margin-bottom: 0;
+}
+    h1 {
+      color:black;
+      font-family: "Playwrite AU NSW", cursive;
+      font-weight: bold;
+      font-size:40px;
+    }
+  }
+

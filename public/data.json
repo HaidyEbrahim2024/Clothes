@@ -1,0 +1,337 @@
+{
+  "Girls": [
+    {
+      "id": 1,
+      "Categuary": "Girls",
+      "img": "./image-api/1.jpeg",
+      "img1": "./image-api/1c.webp",
+      "title": "White T-shirt ",
+      "price": 200,
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 350,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 2,
+      "Categuary": "Girls",
+      "img": "./image-api/2.webp",
+      "img1": "./image-api/2cc.webp",
+      "title": "outViste ",
+      "price": 300,
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 450,
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 3,
+      "Categuary": "Girls",
+      "img": "./image-api/3.jpeg",
+      "title": " jeans Viste",
+      "img1": "./image-api/2c.jpeg",
+      "price": 300,
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 400,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 4,
+      "Categuary": "Girls",
+      "img": "./image-api/4.jpeg",
+      "img1": "./image-api/4.webp",
+      "title": "Sout Dress",
+      "price": 400,
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 500,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 5,
+      "Categuary": "Girls",
+      "img": "./image-api/55.webp",
+      "title": " green Blouse ",
+      "price": 600,
+      "img1": "./image-api/55c.webp",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 700,
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 6,
+      "Categuary": "Girls",
+      "img": "./image-api/6.jpeg",
+      "title": "Badla Jeans",
+      "price": 500,
+      "img1": "./image-api/6c.jpeg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 650,
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 7,
+      "Categuary": "Girls",
+      "img": "./image-api/7.jpeg",
+      "title": "Semi-Dress",
+      "price": 700,
+      "img1": "./image-api/7c.jpeg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 800,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 8,
+      "Categuary": "Girls",
+      "img": "./image-api/8.jpeg",
+      "title": "Full Semi Badla",
+      "price": 650,
+      "img1": "./image-api/7c.jpeg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 700,
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    }
+  ],
+  "Boys": [
+    {
+      "id": 9,
+      "Categuary": "Boys",
+      "img": "./image-api/9.jpeg",
+      "img1": "./image-api/9c.webp",
+      "title": "Semi Badla",
+      "price": 800,
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 1000,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 10,
+      "Categuary": "Boys",
+      "img": "./image-api/10.jpg",
+      "img1": "./image-api/10c.jpg",
+      "title": "Classic Badla ",
+      "price": 1000,
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 1200,
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 11,
+      "Categuary": "Boys",
+      "img": "./image-api/11.jpg",
+      "title": " T-Shirt",
+      "price": 600,
+      "img1": "./image-api/11c.jpg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 800,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 12,
+      "Categuary": "Boys",
+      "img": "./image-api/12.webp",
+      "img1": "./image-api/12c.jpeg",
+      "title": "Sout_T.shirt",
+      "price": 600,
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 750,
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 13,
+      "Categuary": "Boys",
+      "img": "./image-api/133.jpg",
+      "title": "Clasic T-shirt ",
+      "price": 750,
+      "img1": "./image-api/133c.jpg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 800,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 14,
+      "Categuary": "Boys",
+      "img": "./image-api/14.jpg",
+      "title": "Blizar",
+      "price": 550,
+      "img1": "./image-api/14c.jpg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 750,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 15,
+      "Categuary": "Boys",
+      "img": "./image-api/15.webp",
+      "title": "Semi-Tishrt",
+      "price": 550,
+      "img1": "./image-api/15c.jpeg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 700,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 16,
+      "Categuary": "Boys",
+      "img": "./image-api/165.jpeg",
+      "title": "Full Semi Jeans",
+      "price": 800,
+      "img1": "./image-api/166c.jpg",
+      "availableColors": "Two Of Colors",
+      "Pricebeforediscount": 1200,
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    }
+  ],
+  "Toys": [
+    {
+      "id": 17,
+      "Categuary": "Toys",
+      "img": "./image-api/toy1.jpg",
+      "title": "Toy bride",
+      "price": 250,
+
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 18,
+      "Categuary": "Toys",
+      "img": "./image-api/toy2.jpg",
+      "title": " Giraffe",
+      "price": 250,
+
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 19,
+      "Categuary": "Toys",
+      "img": "./image-api/toy3.jpg",
+      "title": "Turtle",
+      "price": 250,
+
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 20,
+      "Categuary": "Toys",
+      "img": "./image-api/toy4.jpg",
+      "title": "Fish",
+      "price": 250,
+
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 21,
+      "Categuary": "Toys",
+      "img": "./image-api/toy5.jpg",
+      "title": "Bee",
+      "price": 250,
+
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 22,
+      "Categuary": "Toys",
+      "img": "./image-api/toy6.jpg",
+      "title": "Camera",
+      "price": 250,
+
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 23,
+      "Categuary": "Toys",
+      "img": "./image-api/toy7.jpg",
+      "title": "Teddy bear",
+      "price": 250,
+
+      "stars": {
+        "rating": 5,
+        "reviews": 25
+      }
+    },
+    {
+      "id": 24,
+      "Categuary": "Toys",
+      "img": "./image-api/toy8.jpg",
+      "title": "Rabbit",
+      "price": 250,
+      "stars": {
+        "rating": 4.5,
+        "reviews": 25
+      }
+    }
+  ],
+  "NewCollections": [
+    {
+      "id": 25,
+      "Categuary": "NewCollections",
+      "img": "./images/pic1.jpg",
+      "img1": "./images/hpic1.jpg",
+      "title": "Stuffed Blue Shark",
+      "price": 350
+    }
+  ]
+}

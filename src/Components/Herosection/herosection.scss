@@ -1,0 +1,161 @@
+// @import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+NSW:wght@100..400&family=Playwrite+IT+Moderna:wght@100..400&family=Playwrite+US+Modern:wght@100..400&display=swap");
+
+// .Herosection {
+//   min-height: auto;
+//   width: 100%;
+//   position: relative;
+//   .image {
+//     width: 100%;
+//     min-height: 30vh;
+//     object-fit: cover;
+//     position: relative;
+//    @media screen and (max-width: 767px) {
+
+//     }
+
+//     background-image: url("/images//cover.jpg");
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//   }
+//   .text {
+//     position: absolute;
+//     position: absolute;
+//     top: 30%;
+//     left: 30%;
+//     z-index: 2;
+//     h2 {
+//       font-family: "Playwrite AU NSW", cursive;
+//       font-weight: bold;
+//       font-size: 100px;
+//       color: white;
+//     }
+//     h4{
+//         color: white;
+//  text-align: center;
+//  font-size: 40px;
+//     }
+//   }
+//   .button{
+//     display: flex;
+//     justify-content: center;
+//     gap: 10px;
+//     margin-top: 40px;
+//     .btn{
+//         font-size: 15px;
+//         font-weight: bold;
+//         padding-top: 14px;
+//         padding-bottom: 14px;
+//         padding-left: 20px;
+//         padding-right: 20px;
+//         border-radius: 15px;
+//         color: white;
+//         border: none;
+//         cursor: pointer;
+//     }
+//   }
+// }
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+NSW:wght@100..400&family=Playwrite+IT+Moderna:wght@100..400&family=Playwrite+US+Modern:wght@100..400&display=swap");
+
+.Herosection {
+  min-height: auto;
+  width: 100%;
+  position: relative;
+
+  .image {
+    width: 100%;
+    min-height: 30vh;
+    object-fit: cover;
+    background-image: url("/images/cover.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    @media screen and (max-width: 767px) {
+      min-height: 20vh; /* Adjust height for smaller screens */
+    }
+  }
+
+  .text {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    z-index: 2;
+
+    @media screen and (max-width: 767px) {
+      position: absolute;
+      top: 22%;
+      left: 25%;
+      z-index: 2;
+    }
+    @media screen and (min-width: 768px) and (max-width: 992px) {
+      position: absolute;
+      top: 22%;
+      left: 25%;
+      z-index: 2;
+    }
+
+
+    h2 {
+      font-family: "Playwrite AU NSW", cursive;
+      font-weight: bold;
+      font-size: 100px;
+      color: white;
+      margin-bottom: 0 !important;
+
+      @media screen and (max-width: 767px) {
+        font-size: 30px;
+      }
+      @media screen and (min-width: 768px) and (max-width: 992px) {
+        font-size: 70px;
+
+
+
+      }
+
+
+
+
+      
+    }
+
+    h4 {
+      color: white;
+      font-size: 40px;
+      text-align: center;
+
+      @media screen and (max-width: 767px) {
+        font-size: 20px;
+        text-align: center;
+      }
+    }
+  }
+
+  .button {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 40px;
+
+    @media screen and (max-width: 767px) {
+      margin-top: 0 !important;
+    }
+
+    .btn {
+      font-size: 15px;
+      font-weight: bold;
+      padding: 14px 20px;
+      border-radius: 15px;
+      color: white;
+      border: none;
+      cursor: pointer;
+
+      @media screen and (max-width: 767px) {
+        font-size: 12px;
+        padding: 10px 15px;
+        margin-top: 0 !important;
+      }
+      .navbar-collapse {
+        z-index: 8888;
+      }
+    }
+  }
+}

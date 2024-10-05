@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+NSW:wght@100..400&family=Playwrite+IT+Moderna:wght@100..400&family=Playwrite+US+Modern:wght@100..400&display=swap");
+.ShopBoys{
+   h2{
+    font-family: "Playwrite AU NSW", cursive;
+    font-weight: bold;
+    font-size: 50px;
+   }
+  
+    
+}
+.carousel .carousel-indicators{
+   display: none;
+
+}
+.carousel .carousel-control-next-icon{
+   width: 2rem;
+   height: 2rem;
+   background-repeat: no-repeat;
+   background-position: 50%;
+   background-size: 100% 100%;
+   color: aqua!important;
+}

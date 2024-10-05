@@ -1,0 +1,11 @@
+.Productshero{
+    min-height: 50vh;
+    // background-color: aqua;
+    margin-bottom: 3rem;
+    .button{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100%!important;
+    }
+}

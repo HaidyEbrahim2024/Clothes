@@ -1,0 +1,46 @@
+
+ul{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+  gap:20px
+}
+li a {
+text-decoration: none;
+color: black;
+font-size: 18px;
+font-weight: 500;
+}
+
+.iicons{
+  display: flex;
+  gap: 30px;
+}
+
+
+@media screen and (max-width: 992px) {
+  .icons a span{
+  position: absolute;
+  top: 84% !important;
+  right: 49% !important;
+  color: black
+
+  }
+  .Account{
+    width: fit-content;
+    display: flex!important;
+    justify-content: center!important;
+    margin-top: 1rem !important;
+  }
+  .icons{
+    padding:  5px 20px !important;
+  }
+
+
+}
+  
+  

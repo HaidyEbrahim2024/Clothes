@@ -1,0 +1,12 @@
+
+.SearchProduct {
+    .input-group {
+      input {
+        &::placeholder {
+          color: red; // تعريف لون placeholder من خلال متغير
+          font-style: italic; // نمط الخط
+          font-size: 14px; // حجم الخط
+        }
+      }
+    }
+  }
