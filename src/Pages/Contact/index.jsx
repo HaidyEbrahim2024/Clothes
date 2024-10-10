@@ -71,36 +71,7 @@ export default function Contact() {
                     </div>
                   </Link>
                 </div>
-                <div
-                  className="ws-c mb-3"
-                  style={{
-                    background: "#81d1e5",
-                    borderRadius: "20px",
-                    padding: "10px 8px",
-                  }}
-                >
-                  <Link
-                    to="https://tg.me/01102643952"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <div
-                      className="btn"
-                      style={{
-                        border: "2px white dashed",
-                        padding: "5px 30px",
-                        borderRadius: "20px",
-                      }}
-                    >
-                      {/* <div className="d-flex gap-3 justify-content-center align-items-center fs-5">
-                          <FontAwesomeIcon icon={faTelegram} />
-
-                      Telegram
-                      </div> */}
-                
-                    </div>
-                  </Link>
-                </div>
+               
               </div>
             </div>
           </div>
