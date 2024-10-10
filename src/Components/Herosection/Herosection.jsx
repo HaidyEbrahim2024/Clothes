@@ -25,11 +25,7 @@ export default function Herosection() {
           <button className="btn" style={{background:"#81d1e5", border:"2px white dashed", padding:"10px" ,borderRadius:"20px" }}>Boys Shop</button>
           </div>
          </Link>
-         {/* <Link to="/Toys">
-           <div  style={{background:"rgb(209 224 123)" , borderRadius:"20px", padding:"4px"}}>
-          <button className="btn" style={{background:"rgb(209 224 123)", border:"2px white dashed", padding:"10px" ,borderRadius:"20px" }}>Shop Toys</button>
-          </div>
-         </Link> */}
+        
         
         </div>
       </div>

@@ -16,7 +16,7 @@ export default function Homepage() {
 {/* <Photo/> */}
       <Categories/>
       <TextPopular/>
-      <Swiiper />
+      {/* <Swiiper /> */}
       {/* <Productshero handelCount={handelCount} /> */}
       {/* <Bestquality/> */}
       <Part/>
