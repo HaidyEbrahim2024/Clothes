@@ -92,11 +92,11 @@ export default function Contact() {
                         borderRadius: "20px",
                       }}
                     >
-                      <div className="d-flex gap-3 justify-content-center align-items-center fs-5">
+                      {/* <div className="d-flex gap-3 justify-content-center align-items-center fs-5">
                           <FontAwesomeIcon icon={faTelegram} />
 
                       Telegram
-                      </div>
+                      </div> */}
                 
                     </div>
                   </Link>
